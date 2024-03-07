@@ -1,2 +1,2 @@
-# IPL-analysis
-Data Analysis on IPL dataset
+# eda_ipl
+Exploratory data analysis on IPL dataset
